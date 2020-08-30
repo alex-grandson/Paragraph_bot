@@ -1,0 +1,62 @@
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.exe.config
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.Form1.resources
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.Properties.Resources.resources
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csproj.GenerateResource.Cache
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.exe
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.pdb
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\Newtonsoft.Json.dll
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\System.Net.Http.Formatting.dll
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\Telegram.Bot.dll
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\Newtonsoft.Json.xml
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\System.Net.Http.Formatting.xml
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\bin\x86\Debug\Telegram.Bot.xml
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.exe
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.pdb
+c:\users\адам дженсен\documents\visual studio 2015\Projects\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csprojResolveAssemblyReference.cache
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.exe.config
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.exe
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.pdb
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Telegram.Bot.dll
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Telegram.Bot.xml
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csprojAssemblyReference.cache
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.Form1.resources
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.Properties.Resources.resources
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csproj.GenerateResource.cache
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csproj.CoreCompileInputs.cache
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csproj.CopyComplete
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.exe
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.pdb
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Data.mdf
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Data_log.ldf
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Paragraph_Core.dll
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Paragraph_Core.pdb
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\Joeyke\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\HtmlAgilityPack.xml
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Data.mdf
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Data_log.ldf
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.exe.config
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.exe
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\revcom_bot.pdb
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Telegram.Bot.dll
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Paragraph_Core.pdb
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\Telegram.Bot.xml
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\bin\x86\Debug\HtmlAgilityPack.xml
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.Form1.resources
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.Properties.Resources.resources
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.csproj.CopyComplete
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.exe
+C:\Users\Admin\source\repos\revcom_bot\revcom_bot\obj\x86\Debug\revcom_bot.pdb
